@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR6j0490/v1
+canonical_location: https://kanripo.org/bkk/KR6j0490/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大藥叉女歡喜母并愛子成就法
+  identifiers:
+    alt_id:
+    - T21n1260
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1260.xml
+    old_id: T21n1260
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 乙
+  label: 乙
+  source_xml_id: wit3
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0490_000.yaml, hash: 'sha256:cd28004906bd7f987b80f0a8847a438f7635425f85508298db81d28b4cfaf690'}
+  - {seq: 1, filename: KR6j0490_001.yaml, hash: 'sha256:a5f356f1e74ecf7e87bb6df8f5439cbed50e6c93d19df2d0b6394a66272f9e24'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0490_001.markers.yaml, hash: 'sha256:696ededbb604c69b2a09fdb5881d56afe02345b2c64a225b02aba6f3fd26da55'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0490_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4609
+  label: '大藥叉女歡喜母并愛子成就法
+
+    亦名訶哩底母經'
+  type: juan
+  level: 1
+hash: sha256:8c34106eb009ed265d97c78334dfd030b1e1ea4b637795254756fc5abdee7cba
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

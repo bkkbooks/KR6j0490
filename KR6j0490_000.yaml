@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0490/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大藥叉女歡喜母并愛子成就法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1260.xml
+    old_id: T21n1260
+hash: sha256:cd28004906bd7f987b80f0a8847a438f7635425f85508298db81d28b4cfaf690
