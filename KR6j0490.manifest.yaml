@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0490_000.yaml, hash: 'sha256:cd28004906bd7f987b80f0a8847a438f7635425f85508298db81d28b4cfaf690'}
-  - {seq: 1, filename: KR6j0490_001.yaml, hash: 'sha256:a5f356f1e74ecf7e87bb6df8f5439cbed50e6c93d19df2d0b6394a66272f9e24'}
+  - {seq: 1, filename: KR6j0490_001.yaml, hash: 'sha256:51cae0de96052e1f92990b7c85c17b75f8d7c4c92785d8c2514177d53be569fb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0490_001.markers.yaml, hash: 'sha256:696ededbb604c69b2a09fdb5881d56afe02345b2c64a225b02aba6f3fd26da55'}
+  - {seq: 0, role: markers, filename: assets/KR6j0490_000.markers.yaml, hash: 'sha256:dc2940ed609e24f7cb9ef6060bff17ef12a44438fc4382e9fd8b2e8cbb4264be'}
+  - {seq: 1, role: markers, filename: assets/KR6j0490_001.markers.yaml, hash: 'sha256:202bfdcabf4e455bd91f3990240b1c2c16047a7c85dd1c974a33f35b530c23af'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,7 +48,4 @@ table_of_contents:
     亦名訶哩底母經'
   type: juan
   level: 1
-hash: sha256:8c34106eb009ed265d97c78334dfd030b1e1ea4b637795254756fc5abdee7cba
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e1c3d794e624f30e859f1e47614c22b9a326ff6837713bea2d097f44d5332010
