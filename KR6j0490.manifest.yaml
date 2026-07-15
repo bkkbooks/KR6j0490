@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0490/v1
 canonical_location: https://kanripo.org/bkk/KR6j0490/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大藥叉女歡喜母并愛子成就法
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0490_000.yaml, hash: 'sha256:cd28004906bd7f987b80f0a8847a438f7635425f85508298db81d28b4cfaf690'}
-  - {seq: 1, filename: KR6j0490_001.yaml, hash: 'sha256:51cae0de96052e1f92990b7c85c17b75f8d7c4c92785d8c2514177d53be569fb'}
+  - {seq: 1, filename: KR6j0490_001.yaml, hash: 'sha256:4846455d98a03b56b463eef22247611dfb2b5ab287639f16f241ce2437442e3c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0490_000.markers.yaml, hash: 'sha256:dc2940ed609e24f7cb9ef6060bff17ef12a44438fc4382e9fd8b2e8cbb4264be'}
-  - {seq: 1, role: markers, filename: assets/KR6j0490_001.markers.yaml, hash: 'sha256:202bfdcabf4e455bd91f3990240b1c2c16047a7c85dd1c974a33f35b530c23af'}
+  - {seq: 1, role: markers, filename: assets/KR6j0490_001.markers.yaml, hash: 'sha256:d947ae6662abe1f9b89be4d588520036bc7a009a0ad5c6b0b654a3ea5cbc6833'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     亦名訶哩底母經'
   type: juan
   level: 1
-hash: sha256:e1c3d794e624f30e859f1e47614c22b9a326ff6837713bea2d097f44d5332010
+hash: sha256:238b73f0f6a60c1c1a549d4563e9d63259b2eff7aac1b8729e0be5e5b2f7f4c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
